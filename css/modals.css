@@ -113,9 +113,9 @@ background: #DFC2F2;
 	
 }
 
-.btn:hover{transform: translateY(-4px);}
+.buybtn:hover{transform: translateY(-4px);}
 
-.btn span {
+.buybtn span {
 	font-family: 'Farsan', cursive;
 	transition: transform 0.3s;
 	display: inline-block;
