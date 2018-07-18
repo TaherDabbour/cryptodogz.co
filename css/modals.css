@@ -125,18 +125,18 @@ background: #DFC2F2;
 	
 }
 /* shopping cart icon */
-.btn .price, .shopping-cart{
+.buybtn .price, .shopping-cart{
 	background: #333;
 	border: 0;
 	margin: 0;
 }
 
-.btn .price {
+.buybtn .price {
 	transform: translateX(-10%); padding-right: 15px;
 }
 
 /* the Icon */
-.btn .shopping-cart {
+.buybtn .shopping-cart {
 	transform: translateX(-100%);
   position: absolute;
 	background: #333;
@@ -146,11 +146,11 @@ background: #DFC2F2;
 }
 
 /* buy */
-.btn .buy {z-index: 3; font-weight: bolder;}
+.buybtn .buy {z-index: 3; font-weight: bolder;}
 
-.btn:hover .price {transform: translateX(-110%);}
+.buybtn:hover .price {transform: translateX(-110%);}
 
-.btn:hover .shopping-cart {transform: translateX(0%);}
+.buybtn:hover .shopping-cart {transform: translateX(0%);}
 
 
 
