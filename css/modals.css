@@ -100,7 +100,7 @@ background: #DFC2F2;
 .buybtn {
 	transform: translateY(0px);
 	transition: 0.3s linear;
-	background: #49C608;
+	background: #007bff;
 	border-radius: 5px;
   position: relative;
   overflow: hidden;
