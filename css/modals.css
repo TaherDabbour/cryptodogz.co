@@ -97,7 +97,7 @@ background: #DFC2F2;
 	
 }
 /* the Button */
-.btn {
+.buybtn {
 	transform: translateY(0px);
 	transition: 0.3s linear;
 	background: #49C608;
